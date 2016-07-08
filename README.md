@@ -3,9 +3,9 @@
 
 
 # リポジトリリスト
-- [ ] https://github.com/yoshipons/octcat-design
-- [ ] https://github.com/miyu100/OctoCat
-- [ ] https://github.com/hnmt/my-Octcat
+- [x] https://github.com/yoshipons/octcat-design
+- [x] https://github.com/miyu100/OctoCat
+- [x] https://github.com/hnmt/my-Octcat
 - [ ] https://github.com/frsho/octcat-idea
 - [ ] https://github.com/vaitu/OctoCat
 - [ ] https://github.com/yatimirin/MY-OCTCAT
