@@ -1,7 +1,7 @@
 # OurOctcats4TMU
 首都大学東京「ネットワーク演習」課題 オリジナルオクトキャットをデザインせよ！
 
- ![Our Octcat](https://github.com/mapconcierge/OurOctcats4TMU/blob/master/hnmt01_octcat.png?raw=true)
+ ![Our Octcats](https://github.com/mapconcierge/OurOctcats4TMU/blob/master/%20OriginalOctcats2016networkTMU.png?raw=true)
 
 
 # リポジトリリスト
