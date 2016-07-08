@@ -8,9 +8,9 @@
 - [x] https://github.com/yoshipons/octcat-design
 - [x] https://github.com/miyu100/OctoCat
 - [x] https://github.com/hnmt/my-Octcat
-- [ ] https://github.com/frsho/octcat-idea
-- [ ] https://github.com/vaitu/OctoCat
-- [ ] https://github.com/yatimirin/MY-OCTCAT
+- [x] https://github.com/frsho/octcat-idea
+- [x] https://github.com/vaitu/OctoCat
+- [x] https://github.com/yatimirin/MY-OCTCAT
 - [ ] https://github.com/nanakoo/octet
 - [ ] https://github.com/watkot/octcat_spittingink
 - [ ] https://github.com/snow-forest/ICAT
